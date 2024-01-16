@@ -60,6 +60,8 @@ body {
   width: 200px;
   border: 10px solid black;
   border-radius: 20%;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .pressed {
