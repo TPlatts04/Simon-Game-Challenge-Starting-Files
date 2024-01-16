@@ -47,6 +47,21 @@ body {
   background-color: yellow;
 }
 
+.restart {
+  background-color: orangered;
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+  text-shadow: 0px 0px 10px black;
+  cursor: pointer;
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
